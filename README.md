@@ -1,3 +1,7 @@
+
+![Logo](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/nlw_dribbble.png)
+____
+
 ## Prints
 
 - [Index](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/index.png)<br>
@@ -5,17 +9,19 @@
 - [Search-point](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/modal.PNG)<br>
 - [Search](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/search-results.JPG)<br>
 ____
-## Technologies
-This project was developed to train my skills in front-end and back-end with the following technologies:
 
-### FRONT-END
+## Technologies
+The project was created with:
+
+#### FRONT-END
 - HTML
 - CSS
 - Java-Script
 
-### BACK-END
-- Nunjucks
+#### BACK-END
 - SQlite
+- Nunjucks
 - Java-Script
 ____
-### Install NLW
+
+### Installation
