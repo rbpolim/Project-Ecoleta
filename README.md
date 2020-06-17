@@ -1,9 +1,9 @@
 
 
-## About this project
+## **About this project**
 In tribute a world environment week, the project Ecoleta by NLW Rockeseat, aimed to create an web application to facilitate the users to register and search it for the collection points of materials that are possible to recycle or especially needs use to be discarded.
 
-## Functionalities
+## **Functionalities**
 * Register a collection point;
 * Search for a collection point in your city;
 
@@ -16,7 +16,7 @@ In tribute a world environment week, the project Ecoleta by NLW Rockeseat, aimed
 - [Search](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/search-results.JPG)<br>
 
 
-## :fire: Technologies
+## **Technologies**
 The project was created with:
 
 #### FRONT-END
@@ -30,4 +30,4 @@ The project was created with:
 - Java-Script
 
 
-### :computer: Installation
+## Installers
