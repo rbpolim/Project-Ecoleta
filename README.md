@@ -1,5 +1,4 @@
 
-![Logo](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/nlw_dribbble.png)
 
 ## Prints
 
