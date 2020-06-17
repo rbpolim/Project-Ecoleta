@@ -1,6 +1,5 @@
 
 ![Logo](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/nlw_dribbble.png)
-____
 
 ## Prints
 
@@ -8,7 +7,7 @@ ____
 - [Create-point](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/create-point.png) <br>
 - [Search-point](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/modal.PNG)<br>
 - [Search](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/search-results.JPG)<br>
-____
+
 
 ## Technologies
 The project was created with:
@@ -22,6 +21,6 @@ The project was created with:
 - SQlite
 - Nunjucks
 - Java-Script
-____
+
 
 ### Installation
