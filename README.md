@@ -1,4 +1,4 @@
-![teste](https://user-images.githubusercontent.com/66570560/84939956-84b14280-b0b5-11ea-9cde-281a00a3a6bd.png)
+![Ecoleta_editado](https://user-images.githubusercontent.com/66570560/84941669-14f08700-b0b8-11ea-890a-4c60752d0932.gif)
 
 ## :camera: Prints
 
