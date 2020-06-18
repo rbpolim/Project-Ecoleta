@@ -1,4 +1,4 @@
-
+![agora sim (2)](https://user-images.githubusercontent.com/66570560/84963400-aa534180-b0df-11ea-8288-ec007b71025f.jpg)
 
 ## **About this project**
 In tribute a world environment week, the project Ecoleta by NLW Rockeseat, aimed to create an web application to facilitate the users to register and search it for the collection points of materials that are possible to recycle or especially needs use to be discarded.
@@ -31,3 +31,5 @@ The project was created with:
 
 
 ## Installers
+If you want to instal the web APP:
+
