@@ -10,10 +10,10 @@ In tribute a world environment week, the project Ecoleta by NLW Rockeseat, aimed
 
 ## :camera: Prints
 
-- [Index](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/index.png)<br>
-- [Create-point](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/create-point.png) <br>
-- [Search-point](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/modal.PNG)<br>
-- [Search](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/search-results.JPG)<br>
+- [Index](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/public/prints/index.png)<br>
+- [Create-point](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/public/prints/create-point.png) <br>
+- [Search-point](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/public/prints/modal.PNG)<br>
+- [Search](https://github.com/rodrigobpolim/Project-Ecoleta/blob/master/public/prints/search-results.JPG)<br>
 
 
 ## **Technologies**
@@ -31,5 +31,11 @@ The project was created with:
 
 
 ## Installers
-If you want to instal the web APP:
+If you want to instal:
+```
+# Install 
+$ npm install
 
+# Run Ecoleta
+$ npm start
+```
